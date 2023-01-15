@@ -44,3 +44,6 @@
 ## My socials:
 - LinkedIn [<img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/damyan-dimitrov-006b6b146/)
 - YouTube Channel [<img width="26px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" />](https://www.youtube.com/channel/UCmG9RJORjDiEgDdlT9J60Rw)
+
+## Deployed projects:
+- [Real Estate App for everybody](https://zealous-beach-0787b0d03.2.azurestaticapps.net/)
