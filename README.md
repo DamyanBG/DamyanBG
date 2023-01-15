@@ -34,4 +34,6 @@
 - GitHub <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" />
 - Scrum
 
-
+## My socials:
+- LinkedIn <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg" />
+- YouTube Channel <img width="26px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" data-canonical-src="https://www.linkedin.com/in/damyan-dimitrov-006b6b146/" />
