@@ -1,6 +1,6 @@
 # Welcome to my profile page! 👋
 
-## Professional Full Stack Developer with <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" /> and <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" />.
+## Professional Full Stack Developer with <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" /> and <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" />
 
 ## Knowledge in:
 
@@ -9,8 +9,12 @@
 - Flask <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original.svg" />
 - FastAPI <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/fastapi/fastapi-original.svg" />
 - ExpressJS <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original.svg" />
+- Bash <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+- Apache <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" />
 
 ### Front-end:
+- HTML <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+- CSS <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 - React <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg" />
 - Angular <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/angularjs/angularjs-original.svg" />
 - SASS <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sass/sass-original.svg" />
@@ -32,6 +36,9 @@
 - VSCode <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" />
 - PyCharm <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/pycharm/pycharm-original.svg" />
 - GitHub <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" />
+- Linux <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+- Arduino <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
+- Raspberry Pi <img width="26px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" /> and Orange Pi <img width="26px" align="center" src="https://raw.githubusercontent.com/yasngleer/awesome-orange-pi/master/logo.jpg" />
 - Scrum
 
 ## My socials:
